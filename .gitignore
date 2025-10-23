@@ -1,0 +1,12 @@
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Crostini/Linux-specific
+*.deb
+*.rpm
